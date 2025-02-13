@@ -1,0 +1,28 @@
+{
+  "name": "happy-birthday",
+  "version": "1.0.0",
+  "description": "to wish someone on their birthday",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build",
+    "serve": "rspack serve"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.5.0",
+    "@rspack/core": "^0.5.0",
+    "@rspack/plugin-html": "^0.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bunsalcoder/happy-birthday.git"
+  },
+  "keywords": [
+    "happy-birthday"
+  ],
+  "author": "bunsal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bunsalcoder/happy-birthday/issues"
+  },
+  "homepage": "https://github.com/bunsalcoder/happy-birthday#readme"
+}
