@@ -4,7 +4,7 @@ let isPlaying = false;
 
 // Import the data to customize and insert them into page
 const fetchData = () => {
-  fetch("customize.json")
+  fetch("wishes.json")
     .then((data) => data.json())
     .then((data) => {
       dataArr = Object.keys(data);
